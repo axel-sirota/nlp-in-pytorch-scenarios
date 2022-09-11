@@ -1,0 +1,8 @@
+ipython
+pandas
+sklearn
+numpy
+nltk
+textblob
+seaborn
+torch
